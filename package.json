@@ -2,7 +2,7 @@
   "name": "newsletter-signup",
   "version": "1.0.0",
   "description": "\"Signup hai bhai\"\u001b[D.\u001b[C\u001b[C\u001b[D\u001b[D\"\u001b[D\u001b[D\u001b[C\u001b[C\u001b[D\"",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
