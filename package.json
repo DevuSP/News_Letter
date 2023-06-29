@@ -1,0 +1,16 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "\"Signup hai bhai\"\u001b[D.\u001b[C\u001b[C\u001b[D\u001b[D\"\u001b[D\u001b[D\u001b[C\u001b[C\u001b[D\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dada",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
